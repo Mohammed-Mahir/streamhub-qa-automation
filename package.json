@@ -1,0 +1,25 @@
+{
+  "name": "streamhub-qa-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Streamhub QA Automation Assessment - Section B (Playwright + Cucumber)",
+  "scripts": {
+    "api:start": "node api/server.js",
+    "test": "cucumber-js",
+    "test:api": "cucumber-js --tags @api",
+    "test:ui": "cucumber-js --tags @ui",
+    "test:selfheal": "cucumber-js --profile selfheal",
+    "test:unit": "node --test utils/emi.test.js",
+    "heal": "node selfheal/heal.js",
+    "sql": "python sql/run_sql.py"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.3.0",
+    "@playwright/test": "^1.63.0"
+  }
+}

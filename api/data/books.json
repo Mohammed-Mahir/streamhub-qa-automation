@@ -1,0 +1,16 @@
+[
+  { "id": 1, "title": "The Silver Compass", "author": "Elena Marsh", "authorId": 1, "genre": "Fantasy", "year": 2018, "rating": 4.4, "price": 12.99 },
+  { "id": 2, "title": "Orbit of Ashes", "author": "Rohan Kapoor", "authorId": 2, "genre": "Science Fiction", "year": 2021, "rating": 4.1, "price": 14.5 },
+  { "id": 3, "title": "The Quiet Ledger", "author": "Mia Tanaka", "authorId": 3, "genre": "Mystery", "year": 2019, "rating": 3.9, "price": 9.99 },
+  { "id": 4, "title": "Atlas of Small Habits", "author": "Priya Nair", "authorId": 5, "genre": "Non-Fiction", "year": 2022, "rating": 4.6, "price": 18.0 },
+  { "id": 5, "title": "Ember Court", "author": "Elena Marsh", "authorId": 1, "genre": "Fantasy", "year": 2020, "rating": 4.2, "price": 13.49 },
+  { "id": 6, "title": "Static Tides", "author": "Rohan Kapoor", "authorId": 2, "genre": "Science Fiction", "year": 2016, "rating": 3.7, "price": 8.99 },
+  { "id": 7, "title": "The Glass Orchard", "author": "Mia Tanaka", "authorId": 3, "genre": "Mystery", "year": 2023, "rating": 4.5, "price": 15.25 },
+  { "id": 8, "title": "Rivers of Code", "author": "Priya Nair", "authorId": 5, "genre": "Non-Fiction", "year": 2017, "rating": 4.0, "price": 21.0 },
+  { "id": 9, "title": "Midnight at Harbour Nine", "author": "Lucas Ferreira", "authorId": 4, "genre": "Mystery", "year": 2015, "rating": 3.5, "price": 7.99 },
+  { "id": 10, "title": "The Last Cartographer", "author": "Elena Marsh", "authorId": 1, "genre": "Fantasy", "year": 2024, "rating": 4.8, "price": 16.99 },
+  { "id": 11, "title": "Neon Monsoon", "author": "Rohan Kapoor", "authorId": 2, "genre": "Science Fiction", "year": 2024, "rating": 4.3, "price": 17.5 },
+  { "id": 12, "title": "Letters to a Young Tester", "author": "Priya Nair", "authorId": 5, "genre": "Non-Fiction", "year": 2021, "rating": 4.7, "price": 19.99 },
+  { "id": 13, "title": "Salt and Static", "author": "Lucas Ferreira", "authorId": 4, "genre": "Science Fiction", "year": 2019, "rating": 3.8, "price": 11.0 },
+  { "id": 14, "title": "The Paper Lighthouse", "author": "Mia Tanaka", "authorId": 3, "genre": "Fantasy", "year": 2014, "rating": 3.6, "price": 6.99 }
+]

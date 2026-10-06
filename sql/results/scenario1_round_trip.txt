@@ -1,0 +1,8 @@
+== Scenario 1 - round-trip transfers ==
+outbound_txn | return_txn | account_a | account_b | outbound_amount | return_amount | pct_difference | hours_between
+-------------+------------+-----------+-----------+-----------------+---------------+----------------+--------------
+1            | 2          | A         | B         | 1000            | 950           | 5.0            | 8.0          
+7            | 8          | D         | E         | 100             | 109           | 9.0            | 1.0          
+9            | 10         | F         | G         | 300             | 330           | 10.0           | 24.0         
+12           | 11         | I         | H         | 800             | 800           | 0.0            | 1.0          
+(4 rows)
