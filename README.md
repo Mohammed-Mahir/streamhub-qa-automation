@@ -44,7 +44,7 @@ Invalid input returns `400 {error:{code,message}}` (`INVALID_PARAMETER` / `UNSUP
 ## SQL (B4)
 `sql/01_schema.sql`, `02_seed.sql`, `scenario1_round_trip.sql`, `scenario2_streaks.sql`; outputs in `sql/results/`.
 Assumptions: "within 10%" is measured against the outbound amount; the return must come after the outbound and
-within 24h inclusive; "consecutive" means consecutive matches *the player played*. Add your screenshots of the outputs to `sql/results/`.
+within 24h inclusive; "consecutive" means consecutive matches *the player played*.
 
 ## Test results
 See `reports/`: `cucumber-report.html/json`, `api-test-console-output.txt`, `unit-test-output.txt`, `screenshots/`.
